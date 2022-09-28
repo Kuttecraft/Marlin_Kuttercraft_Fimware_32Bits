@@ -8,32 +8,32 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/Marlin",
                 "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
-                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/include",
-                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/u8g",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/Marlin/src/HAL/LPC1768/include",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/Marlin/src/HAL/LPC1768/u8g",
                 "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
                 "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
                 "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
                 "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
-                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/TMCStepper/src",
-                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/.pio/libdeps/LPC1769/TMCStepper/src",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/.pio/libdeps/LPC1769/U8glib-HAL/src",
                 "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/Marlin",
                     "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
-                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/include",
-                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/u8g",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/Marlin/src/HAL/LPC1768/include",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/Marlin/src/HAL/LPC1768/u8g",
                     "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
                     "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
                     "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
                     "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
-                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/TMCStepper/src",
-                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/.pio/libdeps/LPC1769/TMCStepper/src",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Fimware_32Bits/.pio/libdeps/LPC1769/U8glib-HAL/src",
                     "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
                     ""
                 ]
