@@ -1,0 +1,47 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+//
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/build/LPC1769/firmware.elf",
+            "projectEnvName": "LPC1769",
+            "toolchainBinDir": "C:/Users/Processing-Tower Kut/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Processing-Tower Kut/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug"
+            }
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/build/LPC1769/firmware.elf",
+            "projectEnvName": "LPC1769",
+            "toolchainBinDir": "C:/Users/Processing-Tower Kut/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Processing-Tower Kut/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (without uploading)",
+            "executable": "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/build/LPC1769/firmware.elf",
+            "projectEnvName": "LPC1769",
+            "toolchainBinDir": "C:/Users/Processing-Tower Kut/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "internalConsoleOptions": "openOnSessionStart",
+            "svdPath": "C:/Users/Processing-Tower Kut/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
+            "loadMode": "manual"
+        }
+    ]
+}

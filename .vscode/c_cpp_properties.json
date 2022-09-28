@@ -1,0 +1,66 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin",
+                "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/include",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/u8g",
+                "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/TMCStepper/src",
+                "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin",
+                    "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/include",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/Marlin/src/HAL/LPC1768/u8g",
+                    "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                    "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                    "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                    "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/TMCStepper/src",
+                    "c:/Users/Processing-Tower Kut/Documents/GitHub/Marlin_Kuttercraft_Firmware_Bug_Fixes/Actualizacion/Segunda_actualizacion/Marlin-2.0.x/.pio/libdeps/LPC1769/U8glib-HAL/src",
+                    "C:/Users/Processing-Tower Kut/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC176X_FRAMEWORK",
+                "TARGET_LPC1768",
+                "F_CPU=120000000L",
+                "MCU_LPC1769",
+                "PIO_PLATFORM_VERSION=1003UL",
+                "PIO_FRAMEWORK_VERSION=2009UL",
+                "PLATFORMIO=60104",
+                "__MARLIN_FIRMWARE__",
+                "NDEBUG",
+                "U8G_HAL_LINKS",
+                "ARDUINO_ARCH_LPC176X",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Users/Processing-Tower Kut/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
